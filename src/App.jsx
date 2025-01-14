@@ -6,7 +6,7 @@ function App() {
     <>
       <h1>Github Actions</h1>
       <h2>Complete course with 2 projects</h2>
-      <h5>Learn new cicd automatio today!</h5>
+      <h5>Learn Sonar Cloud and Ci-CD Automation today!</h5>
     </>
   )
 }
